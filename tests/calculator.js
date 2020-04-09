@@ -61,7 +61,7 @@ it('Subtraction Test', function(){
 
    homepage.verifyResult('9');
 
-    browser.sleep(2000);
+    browser.sleep(3000);
     
 
 
